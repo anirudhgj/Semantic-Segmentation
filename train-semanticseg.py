@@ -45,6 +45,7 @@ if validate:
 
 
 #==============================================================================
+# LoadBatches.py
 # def getImageArr( path , width , height):
 #     img = cv2.imread(path, 1)
 #     img = cv2.resize(img, ( width , height ))
